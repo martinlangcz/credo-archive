@@ -1,0 +1,1202 @@
+[
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 53
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 42
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 31
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 34
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 48
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 35
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 48
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 44
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 41
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 43
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 31
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 34
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 34
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 38
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 41
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 44
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 48
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 41
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 44
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 44
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 50
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 37
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 33
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 45
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 44
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 32
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 53
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 45
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 46
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 49
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 53
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 39
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 49
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 41
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 31
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 30
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 38
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 33
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 53
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 48
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 39
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 32
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 28
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 41
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 33
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 31
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 51
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 47
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 32
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 30
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 42
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 51
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 47
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 52
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 39
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 39
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 41
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 47
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 44
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 51
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 34
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 46
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 31
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 42
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 53
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 49
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 37
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 46
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 53
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 32
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 29
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 51
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 32
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 45
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 45
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 52
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 51
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 30
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 52
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 43
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 44
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 46
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 37
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 44
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 43
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 32
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 53
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 41
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 48
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 28
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 42
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 44
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 47
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 36
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 42
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 33
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 48
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 36
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 48
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 49
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 33
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 33
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 43
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 47
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 39
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 32
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 44
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 28
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 51
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 33
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 49
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 34
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 43
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 49
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 31
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 42
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 44
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 36
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 35
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 43
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 48
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 42
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 50
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 48
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 34
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 36
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 36
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 44
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 53
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 47
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 46
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 46
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 44
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 42
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 43
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 51
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 47
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 50
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 51
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 49
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 37
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 51
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 37
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "christian",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 46
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "christian",
+    "amount": 49
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "muslim",
+    "amount": 44
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 30
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "muslim",
+    "amount": 40
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "muslim",
+    "amount": 52
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 31
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "muslim",
+    "amount": 52
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "muslim",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 48
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "muslim",
+    "amount": 53
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 37
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "muslim",
+    "amount": 33
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 42
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "muslim",
+    "amount": 43
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 32
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "muslim",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 44
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "muslim",
+    "amount": 45
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 48
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "muslim",
+    "amount": 38
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 30
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "muslim",
+    "amount": 36
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 32
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "muslim",
+    "amount": 48
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 39
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "muslim",
+    "amount": 36
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 48
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "muslim",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 49
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "muslim",
+    "amount": 36
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 44
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "muslim",
+    "amount": 34
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 39
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "muslim",
+    "amount": 44
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 46
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "muslim",
+    "amount": 52
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 42
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "muslim",
+    "amount": 48
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 47
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "muslim",
+    "amount": 53
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 50
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "muslim",
+    "amount": 52
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "muslim",
+    "amount": 51
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 52
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "muslim",
+    "amount": 45
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 34
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "muslim",
+    "amount": 38
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 51
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "muslim",
+    "amount": 47
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 31
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "muslim",
+    "amount": 48
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 45
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "muslim",
+    "amount": 39
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 29
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "muslim",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 40
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "muslim",
+    "amount": 44
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 52
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "muslim",
+    "amount": 53
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 46
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "muslim",
+    "amount": 39
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "muslim",
+    "amount": 44
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 34
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "muslim",
+    "amount": 36
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 47
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "muslim",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 41
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "muslim",
+    "amount": 47
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 51
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "muslim",
+    "amount": 51
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 46
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "muslim",
+    "amount": 45
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 48
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "muslim",
+    "amount": 53
+  },
+  {
+    "phase": "P1",
+    "recipient_tradition": "hindu",
+    "amount": 49
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "muslim",
+    "amount": 50
+  },
+  {
+    "phase": "P3",
+    "recipient_tradition": "hindu",
+    "amount": 52
+  }
+]
