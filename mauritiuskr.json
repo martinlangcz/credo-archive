@@ -1,770 +1,5258 @@
 [
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Kretien",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Kretien",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Kretien",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Kretien",
-    "amount": 50.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Kretien",
-    "amount": 50.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Kretien",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Kretien",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Kretien",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Kretien",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Kretien",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Kretien",
-    "amount": 35.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Kretien",
-    "amount": 35.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Kretien",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Kretien",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Kretien",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Kretien",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Kretien",
-    "amount": 35.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Kretien",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Kretien",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Hindou",
-    "amount": 50.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Hindou",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 30
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Hindou",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Hindou",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Hindou",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Hindou",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Hindou",
-    "amount": 50.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Hindou",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Hindou",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Hindou",
-    "amount": 50.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Hindou",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Hindou",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Hindou",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Hindou",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Hindou",
-    "amount": 35.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Mizliman",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Mizliman",
-    "amount": 35.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Mizliman",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Mizliman",
-    "amount": 35.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Mizliman",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Mizliman",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Mizliman",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Mizliman",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Mizliman",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Mizliman",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Mizliman",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Mizliman",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Mizliman",
-    "amount": 35.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Mizliman",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Mizliman",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Hindou",
-    "amount": 35.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Hindou",
-    "amount": 50.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Hindou",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Hindou",
-    "amount": 50.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Hindou",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Hindou",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Hindou",
-    "amount": 50.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Hindou",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Hindou",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Hindou",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Hindou",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Hindou",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Hindou",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Hindou",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Hindou",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 35.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 35.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 50.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 30
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 35.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 30
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 35.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 30
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 50.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 50.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Kretien",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Kretien",
-    "amount": 50.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Kretien",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Kretien",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Kretien",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Kretien",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Kretien",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Kretien",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Kretien",
-    "amount": 50.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 30
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Kretien",
-    "amount": 35.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 30
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Kretien",
-    "amount": 35.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Kretien",
-    "amount": 50.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Kretien",
-    "amount": 35.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Kretien",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Kretien",
-    "recipient_tradition": "Kretien",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 50.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 35.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 50.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 50.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 50.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 35.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Hindou",
-    "recipient_tradition": "Hindou",
-    "amount": 35.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Mizliman",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Mizliman",
-    "amount": 35.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Mizliman",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Mizliman",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 35
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Mizliman",
-    "amount": 50.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Mizliman",
-    "amount": 35.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Mizliman",
-    "amount": 35.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 45
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Mizliman",
-    "amount": 50.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 50
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Mizliman",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 50
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Mizliman",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Mizliman",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 50
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Mizliman",
-    "amount": 50.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 50
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Mizliman",
-    "amount": 35.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Mizliman",
-    "amount": 40.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 50
   },
   {
     "phase": "P1",
-    "donor_tradition": "Mizliman",
-    "recipient_tradition": "Mizliman",
-    "amount": 45.0
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "mizilman",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "mizilman",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "hindou",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "kretien",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 30
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 35
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 45
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 40
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
+  },
+  {
+    "phase": "P1",
+    "donor_tradition": "kretien",
+    "recipient_tradition": "hindou",
+    "amount": 50
   }
 ]
